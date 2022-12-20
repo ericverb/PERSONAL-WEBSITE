@@ -1,49 +1,49 @@
 body {
   background-color: lightblue;
+  background-image: url("wall.jfif");
+
 }
 
 h1 {
-  color: blue;
+  color: whitesmoke;
   border: 3px solid black;
   padding: 30px;
   margin: 50px;
   text-align: center;
   border-radius: 22px;
-  text-shadow: 2px 2px yellowgreen;
   font-family: "Times New Roman", Times, serif;
 
 }
 
 h2 {
-  color: blue;
-  border: 3px dotted black;
+  color: whitesmoke;
+  border: 3px solid black;
   padding: 30px;
   margin: 50px;
-  text-align: center;
+  text-align: left;
   border-radius: 22px;
-  text-shadow: 2px 2px yellowgreen;
   font-family: "Times New Roman", Times, serif;
 
 }
 
 h3 {
-  color: blue;
+  color: whitesmoke;
   border: 3px solid black;
   padding: 30px;
   margin: 50px;
-  text-align: center;
+  text-align: left;
   border-radius: 22px;
-  text-shadow: 2px 2px yellowgreen;
   font-family: "Times New Roman", Times, serif;
 
 }
 
 p {
-  color: black;
+  color: whitesmoke;
   border: 3px  black;
   border-radius: 22px;
   padding: 30px;
   margin: 50px;
+
 }
 
 a {
